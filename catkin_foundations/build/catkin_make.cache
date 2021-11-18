@@ -1,0 +1,2 @@
+gazebo_tutorials:rrbot_control:rrbot_description:rrbot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/harsha/catkin_foundations/devel -DCMAKE_INSTALL_PREFIX=/home/harsha/catkin_foundations/install -G Unix Makefiles
